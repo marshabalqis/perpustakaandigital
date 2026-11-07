@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Perpustakaan Berbasis Virtual Reality With Github](ebook/Perpustakaan Berbasis Virtual Reality With Github.pdf) - Kania Aulia, (2023)
 9. [Buku Ajar Pengantar Teknologi Informasi With GitHub](ebook/Buku Ajar Pengantar Teknologi Informasi With GitHub.pdf) - Dwi Hastuti, dkk (2024)
 10. [Perpus Digital Mendukung Era Disrupsi With GitHub](ebook/Perpus Digital Mendukung Era Disrupsi With GitHub.pdf) - Suharti (2019)
-
+11. [Ringkasan Pemaparan UGC](ebook/Ringkasan Pemaparan UGC.pdf) - Marsha Aulia Balqis (2026)
 ---
 *Powered by GitHub Pages*
